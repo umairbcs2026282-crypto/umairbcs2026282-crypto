@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Umair Beg 👋
 
-<!--
-**umairbcs2026282-crypto/umairbcs2026282-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ Invertis University, Bareilly (2026-30)
+💻 Aspiring Software Developer | Problem Solver
+🌱 Currently Learning: C, Python, Data Structures
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- C, Python, HTML, MySQL
+- GitHub, VS Code, HackerRank
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+- Learning in Public
+- Daily Coding on HackerRank
+
+### 📫 Connect With Me
+- HackerRank Profile: (https://www.hackerrank.com/profile/u38363748)
+- LinkedIn: (https://www.linkedin.com/in/umair-beg-1b0331400?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+✨ _First Year, Big Dreams - Building My Future in Tech!_
